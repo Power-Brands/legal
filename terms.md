@@ -39,7 +39,7 @@ Powerbrands may suspend or terminate access to the Application at any time, with
 
 ## 8. Governing Law
 
-These Terms are governed by the laws of the State of [STATE], without regard to its conflict of laws provisions.
+These Terms are governed by the laws of the State of California, without regard to its conflict of laws provisions.
 
 ## 9. Changes to These Terms
 
